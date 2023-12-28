@@ -1,0 +1,405 @@
+{
+  "title": "Você seria um personagem da DC ou da Marvel?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual é o seu superpoder dos sonhos?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Voar",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Telepatia",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Superforça",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Teleporte",
+          "alias": "B"
+        },
+        {
+          "id": 5,
+          "name": "Controle do tempo",
+          "alias": "A"
+        },
+        {
+          "id": 6,
+          "name": "Invisibilidade",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Escolha um ambiente para sua batalha épica:",
+      "options": [
+        {
+          "id": 1,
+          "name": "Metrópole",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Gotham City",
+          "alias": "A"
+        },
+        {
+          "id": 3,
+          "name": "Asgard",
+          "alias": "B"
+        },
+        {
+          "id": 4,
+          "name": "Wakanda",
+          "alias": "B"
+        },
+        {
+          "id": 5,
+          "name": "Espaço Sideral",
+          "alias": "B"
+        },
+        {
+          "id": 6,
+          "name": "Atlântida",
+          "alias": "A"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "O que você valoriza mais em um herói?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Justiça",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Lealdade",
+          "alias": "A"
+        },
+        {
+          "id": 3,
+          "name": "Coragem",
+          "alias": "B"
+        },
+        {
+          "id": 4,
+          "name": "Inteligência",
+          "alias": "B"
+        },
+        {
+          "id": 5,
+          "name": "Compaixão",
+          "alias": "A"
+        },
+        {
+          "id": 6,
+          "name": "Determinação",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Escolha um superveículo para suas missões:",
+      "options": [
+        {
+          "id": 1,
+          "name": "Batmóvel",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Jato Quinjet",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Invisijato",
+          "alias": "B"
+        },
+        {
+          "id": 4,
+          "name": "Lanterna Verde Interceptor",
+          "alias": "A"
+        },
+        {
+          "id": 5,
+          "name": "Mulher Maravilha's Invisible Jet",
+          "alias": "A"
+        },
+        {
+          "id": 6,
+          "name": "Hellcycle do Motoqueiro Fantasma",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual é o seu animal de estimação ideal?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Cão",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Gato",
+          "alias": "A"
+        },
+        {
+          "id": 3,
+          "name": "Águia",
+          "alias": "B"
+        },
+        {
+          "id": 4,
+          "name": "Pantera Negra",
+          "alias": "B"
+        },
+        {
+          "id": 5,
+          "name": "Falcão",
+          "alias": "A"
+        },
+        {
+          "id": 6,
+          "name": "Dragão",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "O que você prefere fazer em seu tempo livre?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Ler quadrinhos",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Treinar artes marciais",
+          "alias": "A"
+        },
+        {
+          "id": 3,
+          "name": "Explorar novas tecnologias",
+          "alias": "B"
+        },
+        {
+          "id": 4,
+          "name": "Meditar",
+          "alias": "B"
+        },
+        {
+          "id": 5,
+          "name": "Participar de festas épicas",
+          "alias": "A"
+        },
+        {
+          "id": 6,
+          "name": "Viajar para outros mundos",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Escolha uma cor para o seu traje heroico:",
+      "options": [
+        {
+          "id": 1,
+          "name": "Vermelho",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Azul",
+          "alias": "A"
+        },
+        {
+          "id": 3,
+          "name": "Verde",
+          "alias": "B"
+        },
+        {
+          "id": 4,
+          "name": "Preto",
+          "alias": "B"
+        },
+        {
+          "id": 5,
+          "name": "Dourado",
+          "alias": "A"
+        },
+        {
+          "id": 6,
+          "name": "Prateado",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "O que você faria se tivesse superpoderes?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Protegeria o mundo",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Combateria o crime nas ruas",
+          "alias": "A"
+        },
+        {
+          "id": 3,
+          "name": "Exploraria o universo",
+          "alias": "B"
+        },
+        {
+          "id": 4,
+          "name": "Ajudaria na evolução da tecnologia",
+          "alias": "B"
+        },
+        {
+          "id": 5,
+          "name": "Defenderia os inocentes",
+          "alias": "A"
+        },
+        {
+          "id": 6,
+          "name": "Buscaria o equilíbrio entre os mundos",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Escolha um vilão icônico para enfrentar:",
+      "options": [
+        {
+          "id": 1,
+          "name": "Coringa",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Thanos",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Lex Luthor",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Duende Verde",
+          "alias": "B"
+        },
+        {
+          "id": 5,
+          "name": "Cérebro",
+          "alias": "B"
+        },
+        {
+          "id": 6,
+          "name": "Darkseid",
+          "alias": "A"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "O que você acha mais importante em uma equipe de heróis?",
+      "options": [
+        {
+          "id": 1,
+          "name": "União",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Diversidade de habilidades",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Liderança forte",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Confiança mútua",
+          "alias": "B"
+        },
+        {
+          "id": 5,
+          "name": "Humor",
+          "alias": "A"
+        },
+        {
+          "id": 6,
+          "name": "Determinação inabalável",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Qual é o seu lema heroico?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Nunca desista",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Com grandes poderes vêm grandes responsabilidades",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "A esperança nunca morre",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Verdade e justiça",
+          "alias": "A"
+        },
+        {
+          "id": 5,
+          "name": "O impossível é apenas o início",
+          "alias": "B"
+        },
+        {
+          "id": 6,
+          "name": "Somos todos heróis",
+          "alias": "B"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você é um fã da DC e certamente deveria ser um personagem de lá também",
+    "B": "Você é um fã da Marvel e certamente deveria ser um personagem de lá também"
+  }
+}
